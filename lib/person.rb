@@ -13,6 +13,7 @@ class Person
     @complexion=complexion
     @t_shirt_size=t_shirt_size
     @wrist_size=wrist_size
-    @glove_sizegl
+    @glove_size=glove_size
+    
   end
 end
